@@ -53,9 +53,9 @@ These data sources were merged and cleaned to create the `merged_locations.csv` 
 
 ## Example Screenshots
 Here are some screenshots of the chatbot in action:
-- ![Screenshot 1](./screenshots/screengrab1.png)
-- ![Screenshot 2](./screenshots/screengrab2.png)
-- ![Screenshot 3](./screenshots/screengrab3.png)
+![Screenshot 1](./screenshots/screengrab1.png)
+![Screenshot 2](./screenshots/screengrab2.png)
+![Screenshot 3](./screenshots/screengrab3.png)
 
 
 ## License
